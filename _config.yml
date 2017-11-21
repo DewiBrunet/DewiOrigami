@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "fr-BE"
-title                    : "OpenFab"
+title                    : "Le blog de DewiOrigami"
 title_separator          : "-"
-name                     : "OpenFab"
-description              : "More than a fablab"
+name                     : "Dewi Brunet"
+description              : "Plieur"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -62,7 +62,7 @@ naver-site-verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:
+facebook: https://www.facebook.com/dewiorigami/ 
   username               :
   app_id                 :
   publisher              :
