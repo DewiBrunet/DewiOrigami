@@ -13,7 +13,7 @@ title                    : "Le blog de DewiOrigami"
 title_separator          : "-"
 name                     : "Dewi Brunet"
 description              : "Plieur"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DewiBrunet/DewiOrigami.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -83,23 +83,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "OpenFab"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "More than a fablab"
+  name             : "Dewi Brunet"
+  avatar           : "/assets/images/Bender-PNG-Photos.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Plieur"
   location         : "Bruxelles"
-  email            :
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : DewiOrigami
   foursquare       :
   github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : DewiOrigami
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
