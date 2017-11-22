@@ -2,15 +2,16 @@
 ---
 title: "Dewi Brunet"
 layout: splash
-permalink: /
 header:
-  overlay_color: "#656565"
-  overlay_image: assets/images/13925243_948461171929213_466801385920362336_n.jpg
-  page.title: Dewi Brunet
-excerpt: Artist [DewiOrigami](http://www.dewiorigami.com)<br />
+  image: assets/images/13925243_948461171929213_466801385920362336_n.jpg
+
+sidebar:
+- title: "Artist [DewiOrigami](http://www.dewiorigami.com)<br />
 Padawan @[Openfab](http://openfab.be)<br />
-Check out my [Facebook](https://www.facebook.com/dewiorigami/)'
+Check out my [Facebook](https://www.facebook.com/dewiorigami/)
+"
 ---
+
 ## Plieur, c'est un métier ça?
 
 Et oui, blablabla...
